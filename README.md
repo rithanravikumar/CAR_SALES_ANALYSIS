@@ -15,8 +15,8 @@ Those who are looking for a car with good fuel efficiency and affordability can 
 ### Top 5 cars in sales:
 Based on the given data,
 Here are the top 5 sold passenger cars,
-                   1. TOYOTA CAMRY 
-                   2. FORD TAURUS
-                   3. HONDA ACCORD
-                   4. HONDA CIVIC
-                   5. FORD FOCUS 
+                   1.) TOYOTA CAMRY 
+                   2.) FORD TAURUS
+                   3.) HONDA ACCORD
+                   4.) HONDA CIVIC
+                   5.) FORD FOCUS 
